@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - sofia jardim 💻</h1>
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
@@ -13,10 +13,10 @@ Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
 ## 🤯 O site é composto por:
 
 - **Home:** Minha apresentação;
-- **Sobre mim:** Falo um pouco sobre minha trajetória e meu estado atual;
+- **Sobre mim:** estudante de desenvolvimentos de sistemas, não sou um robo;
 - **Projetos:** Alguns projetos recentes que fiz;
-- **Conhecimentos:** As tecnologias que tenho conhecimento;
-- **Fale comigo:** Área com meios para contato comigo;
+- **Conhecimentos:** As tecnologias que tenho conhecimento: git, github, banco de dados, kotlin, c#, ia;
+- **Fale comigo:** Área com meios para contato comigo :D;
 - **Redes:** Minhas redes sociais disponíveis no menu de navegação e no rodapé do site.
 
 ## 🧠 Tecnologias utilizadas:
